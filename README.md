@@ -8,6 +8,7 @@ Il sistema risultante avrà, quindi, come obiettivi:
 * Ottimizzare l’attuale iter burocratico di firma, da parte degli stakeholders, dei documenti necessari al tirocinio (“Progetto Formativo”) dando la possibilità di caricare i suddetti documenti direttamente sulla piattaforma;
 * La verifica da parte della Commissione Riconoscimenti degli estremi identificativi delle assicurazioni per la responsabilità civile, il numero di CFU che dovrebbero essere riconosciuti, e la completezza delle firme necessarie per l’approvazione.
 # Distro 1.0
+Prima release della piattaforma "Easy-Traineeship". Per maggiorni informazioni sull' istallazione consultare il "manuale di installazione"
 *Prima di installare:
   1. Scaricare e installare JDK 8
   2. Scaricare il server "apache Tomcat" v9.0
@@ -25,7 +26,7 @@ Il sistema risultante avrà, quindi, come obiettivi:
 *Installazione
   1. Avviare il Server "apache Tomcat"
   2. Aprire il Web Browser e recarsi al link del progetto
-  3. Dopo aver concluso le operazioni desiderate sulla piattaforma stoppare il "apache        tomcat"
+  3. Dopo aver concluso le operazioni desiderate sulla piattaforma stoppare il "apachetomcat"
 # Project managers
 Vincenzo Belmonte, Vincenzo De Rosa.
 # Team
